@@ -1,9 +1,0 @@
-01/17/24
-/dev/root                 4.9G      2.3G      2.6G  47% /
-  12 df -h | grep -w / >> file.txt 
-  13 cat file.txt 
-  14 history
-  15 history | tail -5
-  16 history | tail -5 >> file.txt 
-AuthenticX86
-33
