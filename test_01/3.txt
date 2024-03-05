@@ -1,0 +1,7 @@
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        957M     0  957M   0% /dev
+tmpfs           966M     0  966M   0% /dev/shm
+tmpfs           966M  556K  965M   1% /run
+tmpfs           966M     0  966M   0% /sys/fs/cgroup
+/dev/nvme0n1p1   20G   11G  9.1G  55% /
+tmpfs           194M     0  194M   0% /run/user/1000
