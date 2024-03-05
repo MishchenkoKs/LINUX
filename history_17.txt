@@ -28,4 +28,4 @@
   27 ps | tail +2 | wc -l >> file.txt 
   28 clear
   29 cat file.txt 
-  30 history  >> history_17.txt
+  30 history  >> history_17.
